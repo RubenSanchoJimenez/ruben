@@ -1,0 +1,55 @@
+// Ciudadanía global //
+
+
+La educación jesuita pretende
+
+
+// Que trabajen en todo tipo de fronteras
+
+Simbólica --> Cultural, Raza
+
+Físicas --> Vallas, cárceles
+
+
+
+Con el ánimo de diluirlas
+
+Misión claramente compartida
+
+
+
+
+// Ámbitos de la ciudadanía global
+
+
+Justicia social --> Mismas oportunidades
+
+Interculturalidad e inclusión --> Las cultutas suman entre si
+
+Equidad de género y coeducación --> Igualdad y educación general
+
+Desarrollo humano y sostenible --> Desarrollo que se puede mantener en el tiempo 
+
+Participación democrática --> Pensar y actuar ante temas locales o generales
+
+
+
+// DIW //
+
+--> Actores y Objetivos
+--> Lista de requerimientos
+--> Arquitectura tecnológica (Dispositivos y resolución)
+--> Guía de estilo
+--> Mapa de navegación (Esquema de cajas)
+--> Bocetos
+
+// DWEC // 
+
+--> RA2 - JavaScript básico (DRY, KISS, YAGNI)
+--> RA3 - Objetos del sitema (indexedDB | SET, MAP | String, Date)
+--> RA4 - POO (MVC | ___ | POOL) (Doc Autom)
+--> RA5 - Eventos >= (5 | 3 | 1) - Formularios - Dep 8 Pruebas
+--> RA6 - DOM (Crear objetos sobre la marcha)
+--> RA7 - AJAX (Comunicaciones asincronas con un usuario)(WebService)
+
+
